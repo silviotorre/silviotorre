@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi there, i'm Silvio 👋
 
-
-**silviotorre/silviotorre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![](http://cloudcity.link/assets/images/cloud-city-logo-tr.png)
 
 - 🔭 I’m currently working on an interoperability framework
-- 🌱 I’m currently learning archery
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Neaples
-- 📫 How to reach me: if telepathy dont work you can try D&D spell "Summon Monster",or else by email
+- 🌱 I’m currently learning Archery and Kafka
+- 💬 Ask me about the city of Neaples (Italy)
+- 📫 How to reach me: if [telepathy](https://www.twitter.com/silviotorre) or [email](mailto:info@silviotorre.com) dont work you can try D&D spell "Summon Monster" 
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: my pet is the Killer Rabbit of Caerbannog 
 
