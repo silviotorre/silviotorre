@@ -1,6 +1,6 @@
 ### Hi there, i'm Silvio 👋
 
-![Cloud City](http://cloudcity.link/assets/images/cloud-city-logo-tr.png)
+[![Cloud City](http://cloudcity.link/assets/images/cloud-city-logo-tr.png)](http://cloudcity.link)
 
 - 🔭 I’m currently working on an interoperability framework
 - 🌱 I’m currently learning Archery
