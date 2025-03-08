@@ -7,7 +7,7 @@
 - 💬 Ask me about the city of Neaples (Italy), [Azure Cloud](https://azure.microsoft.com) and [Oracle Cloud](https://www.oracle.com/cloud/) 
 - 📫 How to reach me: if [telepathy](https://www.twitter.com/silviotorre) or [email](mailto:info@silviotorre.com) don't work you can try D&D spell "Summon Monster" 
 - 😄 Pronouns: He
-- 🇮🇹  I’m from Italy
+- 🇮🇹  I’m from Italy, 🇪🇺 European Union (EU)
 
 ### Certifications:
 - ☁️  AZ-305 - Certified Azure Solutions Architect Expert [🔗](https://learn.microsoft.com/en-us/users/silvio-torre/credentials/31f191e04fefbbef)
