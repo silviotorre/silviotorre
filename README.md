@@ -2,12 +2,14 @@
 
 [![Cloud City](http://cloudcity.link/assets/images/cloud-city-logo-tr.png)](http://cloudcity.link)
 
-- 🔭 I’m currently working on an interoperability framework
-- 🌱 I’m currently learning Archery
-- 💬 Ask me about the city of Neaples (Italy), [Azure Cloud](https://azure.microsoft.com) and [Oracle Cloud](https://www.oracle.com/cloud/) 
-- 📫 How to reach me: if [telepathy](https://www.twitter.com/silviotorre) or [email](mailto:info@silviotorre.com) don't work you can try D&D spell "Summon Monster" 
-- 😄 Pronouns: He
-- 🇮🇹  I’m from Italy, 🇪🇺 European Union (EU)
+- 🙋‍♂ I’m from Italy (🇮🇹), European Union (🇪🇺);
+- 🛰️ I’m currently working on a new observability platform for an [Agritech Research Center](https://agritechcenter.it/) Spatial DSS;
+- 🧬 In the last years i worked on platform engineering enablement for major healthcare industries such as [Wallgreens](https://www.walgreens.com/) and [Boots](https://www.boots.com/);
+- ⚛️ I’m currently learning quantum computing integration;
+- 💬 Ask me about the city of Neaples (Italy), [Azure Cloud](https://azure.microsoft.com) and [Oracle Cloud](https://www.oracle.com/cloud/);
+- 📫 How to reach me: if [telepathy](https://www.twitter.com/silviotorre) or [email](mailto:info@silviotorre.com) don't work you can try D&D spell "Summon Monster";
+- 😄 Pronouns: He;
+
 
 ### Certifications:
 - 🔐  SC-100 - Certified Cybersecurity Architect Expert [🔗](https://learn.microsoft.com/en-us/users/silvio-torre/credentials/12a7f08973b9661a)
