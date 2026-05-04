@@ -21,5 +21,6 @@
 - 👨‍🏫  MIE – Microsoft Certified Innovative Educator [🔗](https://learn.microsoft.com/en-us/users/silvio-torre/achievements/9hef32ku)
 - 📑  ISO/IEC 27001 InfoSec Associate [🔗](https://www.skillfront.com/certifications/SkillFront-SFE01663464bfa6f-59298200475716.pdf)
 - 🤝  SFPC – Scrum Professional Certified [🔗](https://www.credly.com/earner/earned/badge/a4e53a7e-9b48-457a-860a-8c4ee0946b31)
+- 💼  CPSPO - Certified Professional As Scrum Product Owner™ [🔗](https://www.skillfront.com/Badges/01121198190502).
 - 🔐  Full security stack TryHackme 🛡️ / 🎖️ Top 1% TryHackme world class [🔗](https://tryhackme.com/p/silvio.t)
 - 👉  Full certification list: [🔗](https://www.linkedin.com/in/silviotorre/details/certifications/)
