@@ -18,6 +18,7 @@
 - 🧠  AI-102 - Certified Azure AI Engineer [🔗](https://learn.microsoft.com/en-us/users/silvio-torre/credentials/a5f5c8ee75e199ec)
 - 👨🏻‍💻  AZ-104 - Certified Azure Administrator [🔗](https://learn.microsoft.com/en-us/users/silvio-torre/credentials/bbcd1ac45fd33baf)
 - 👮  SC-300 - Certified Identity and Access Administrator Associate [🔗](https://learn.microsoft.com/en-us/users/silvio-torre/credentials/d133af3746574b49)
+- 🔝 AB-730 - Certified AI Transformation Leader [🔗](https://learn.microsoft.com/en-us/users/silvio-torre/credentials/certification/ai-transformation-leader)
 - 👨‍🏫  MIE – Microsoft Certified Innovative Educator [🔗](https://learn.microsoft.com/en-us/users/silvio-torre/achievements/9hef32ku)
 - 📑  ISO/IEC 27001 InfoSec Associate [🔗](https://www.skillfront.com/certifications/SkillFront-SFE01663464bfa6f-59298200475716.pdf)
 - 🤝  SFPC – Scrum Professional Certified [🔗](https://www.credly.com/earner/earned/badge/a4e53a7e-9b48-457a-860a-8c4ee0946b31)
