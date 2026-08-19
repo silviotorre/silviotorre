@@ -10,6 +10,8 @@
 - 📫 How to reach me: if [telepathy](https://www.twitter.com/silviotorre) or [email](mailto:info@silviotorre.com) don't work you can try D&D spell "Summon Monster";
 - 😄 Pronouns: He;
 
+### Standards & Professional Communities
+- ☕ Java Community Process (JCP) Member — membership renewed in August 2026 [🔗](https://jcp.org/)
 
 ### Certifications:
 - 🔐  SC-100 - Certified Cybersecurity Architect Expert [🔗](https://learn.microsoft.com/en-us/users/silvio-torre/credentials/12a7f08973b9661a)
