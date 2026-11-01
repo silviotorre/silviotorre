@@ -1,29 +1,52 @@
-### Hi there, i'm Silvio 👋
+# Silvio Torre
 
-[![Cloud City](http://cloudcity.link/assets/images/cloud-city-logo-tr.png)](http://cloudcity.link)
+**Cloud, Platform & Cybersecurity Architect | Enterprise Innovation | AI-enabled Systems | Technical Leadership**
 
-- 🙋‍♂ I’m from Italy (🇮🇹), European Union (🇪🇺);
-- 🛰️ I’m currently working on a new observability platform for an [Agritech Research Center](https://agritechcenter.it/) Spatial DSS;
-- 🧬 In the last years i worked on platform engineering enablement for major healthcare industries such as [Wallgreens](https://www.walgreens.com/) and [Boots](https://www.boots.com/);
-- ⚛️ I’m currently learning quantum computing integration;
-- 💬 Ask me about the city of Neaples (Italy), [Azure Cloud](https://azure.microsoft.com) and [Oracle Cloud](https://www.oracle.com/cloud/);
-- 📫 How to reach me: if [telepathy](https://www.twitter.com/silviotorre) or [email](mailto:info@silviotorre.com) don't work you can try D&D spell "Summon Monster";
-- 😄 Pronouns: He;
+I design and evolve cloud-native platforms, enterprise integration architectures, and delivery systems with a focus on security, interoperability, operability, and sustainable engineering practices.
 
-### Standards & Professional Communities
-- ☕ Java Community Process (JCP) Member — membership renewed in August 2026 [🔗](https://jcp.org/)
+My recent work spans **platform engineering**, **Cloud/DevOps architecture**, **enterprise integration**, **cybersecurity**, and **R&D for AI-enabled and geospatial systems** across enterprise, innovation, and public-interest contexts.
 
-### Certifications:
-- 🔐  SC-100 - Certified Cybersecurity Architect Expert [🔗](https://learn.microsoft.com/en-us/users/silvio-torre/credentials/12a7f08973b9661a)
-- ☁️  AZ-305 - Certified Azure Solutions Architect Expert [🔗](https://learn.microsoft.com/en-us/users/silvio-torre/credentials/31f191e04fefbbef)
-- 🚀  AZ-400 – Certified Azure DevOps Engineer Expert [🔗](https://learn.microsoft.com/en-us/users/silvio-torre/credentials/3ef05dcf01a22a6a) and DevSecOps [🔗](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-4MHUE8VEVP.pdf)
-- 🧠  AI-102 - Certified Azure AI Engineer [🔗](https://learn.microsoft.com/en-us/users/silvio-torre/credentials/a5f5c8ee75e199ec)
-- 👨🏻‍💻  AZ-104 - Certified Azure Administrator [🔗](https://learn.microsoft.com/en-us/users/silvio-torre/credentials/bbcd1ac45fd33baf)
-- 👮  SC-300 - Certified Identity and Access Administrator Associate [🔗](https://learn.microsoft.com/en-us/users/silvio-torre/credentials/d133af3746574b49)
-- 🔝 AB-730 - Certified AI Transformation Leader [🔗](https://learn.microsoft.com/en-us/users/silvio-torre/credentials/certification/ai-transformation-leader)
-- 👨‍🏫  MIE – Microsoft Certified Innovative Educator [🔗](https://learn.microsoft.com/en-us/users/silvio-torre/achievements/9hef32ku)
-- 📑  ISO/IEC 27001 InfoSec Associate [🔗](https://www.skillfront.com/certifications/SkillFront-SFE01663464bfa6f-59298200475716.pdf)
-- 🤝  SFPC – Scrum Professional Certified [🔗](https://www.credly.com/earner/earned/badge/a4e53a7e-9b48-457a-860a-8c4ee0946b31)
-- 💼  CPSPO - Certified Professional As Scrum Product Owner™ [🔗](https://www.skillfront.com/Badges/01121198190502).
-- 🔐  Full security stack TryHackme 🛡️ / 🎖️ Top 1% TryHackme world class [🔗](https://tryhackme.com/p/silvio.t)
-- 👉  Full certification list: [🔗](https://www.linkedin.com/in/silviotorre/details/certifications/)
+## Selected work
+
+- [Azure Code Anonymizer](https://github.com/silviotorre/azure-code-anonymizer) — client-side sanitization for Azure/DevOps code snippets before external sharing.
+- [Prompt4Work Sanitizer](https://github.com/silviotorre/simple-prompt4work-sanitizer) — configurable browser-side prompt sanitization with red-flag detection and diagnostics.
+- [Miniguide](https://github.com/silviotorre/miniguide) — concise Cloud, DevOps, platform engineering, and operations notes for senior practitioners.
+- [CloudCity](https://github.com/silviotorre/cloudcity) — interoperability concept and demonstrator for smart-city and public-service scenarios.
+- [biblio2word](https://github.com/silviotorre/biblio2word) — browser-based bibliography conversion to Microsoft Word bibliography sources.
+
+## Current focus
+
+- Cloud and platform architecture
+- Secure software delivery and DevSecOps
+- Event-driven and interoperable systems
+- Observability and operational architecture
+- AI-enabled systems and agentic infrastructure
+- Architecture governance, trade-offs, and technical leadership
+
+## Selected credentials
+
+- Microsoft Certified: **Cybersecurity Architect Expert** — SC-100
+- Microsoft Certified: **Azure Solutions Architect Expert** — AZ-305
+- Microsoft Certified: **DevOps Engineer Expert** — AZ-400
+- Microsoft Certified: **Azure AI Engineer Associate** — AI-102
+- Microsoft Certified: **AI Transformation Leader**
+- Microsoft Certified: **Azure Administrator Associate** — AZ-104
+- Microsoft Certified: **Identity and Access Administrator Associate** — SC-300
+- **ISO/IEC 27001 InfoSec Associate**
+- Scrum and Product Ownership credentials
+- TryHackMe — [profile](https://tryhackme.com/p/silvio.t)
+
+Full credential history: [LinkedIn](https://www.linkedin.com/in/silviotorre/details/certifications/)
+
+## Standards & professional communities
+
+- **Java Community Process (JCP)** member — membership renewed in August 2026
+
+## Elsewhere
+
+- [silviotorre.com](https://silviotorre.com)
+- [LinkedIn](https://www.linkedin.com/in/silviotorre/)
+- [CloudCity portfolio](https://cloudcity.link)
+- [CodersRank](https://profile.codersrank.io/user/silviotorre)
+
+Based in Italy / European Union.
