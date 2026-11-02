@@ -6,14 +6,6 @@ I design and evolve cloud-native platforms, enterprise integration architectures
 
 My recent work spans **platform engineering**, **Cloud/DevOps architecture**, **enterprise integration**, **cybersecurity**, and **R&D for AI-enabled and geospatial systems** across enterprise, innovation, and public-interest contexts.
 
-## Selected work
-
-- [Azure Code Anonymizer](https://github.com/silviotorre/azure-code-anonymizer) — client-side sanitization for Azure/DevOps code snippets before external sharing.
-- [Prompt4Work Sanitizer](https://github.com/silviotorre/simple-prompt4work-sanitizer) — configurable browser-side prompt sanitization with red-flag detection and diagnostics.
-- [Miniguide](https://github.com/silviotorre/miniguide) — concise Cloud, DevOps, platform engineering, and operations notes for senior practitioners.
-- [CloudCity](https://github.com/silviotorre/cloudcity) — interoperability concept and demonstrator for smart-city and public-service scenarios.
-- [biblio2word](https://github.com/silviotorre/biblio2word) — browser-based bibliography conversion to Microsoft Word bibliography sources.
-
 ## Current focus
 
 - Cloud and platform architecture
@@ -37,6 +29,14 @@ My recent work spans **platform engineering**, **Cloud/DevOps architecture**, **
 - TryHackMe — [profile](https://tryhackme.com/p/silvio.t)
 
 Full credential history: [LinkedIn](https://www.linkedin.com/in/silviotorre/details/certifications/)
+
+## Selected public repos
+
+- [Azure Code Anonymizer](https://github.com/silviotorre/azure-code-anonymizer) — client-side sanitization for Azure/DevOps code snippets before external sharing.
+- [Prompt4Work Sanitizer](https://github.com/silviotorre/simple-prompt4work-sanitizer) — configurable browser-side prompt sanitization with red-flag detection and diagnostics.
+- [Miniguide](https://github.com/silviotorre/miniguide) — concise Cloud, DevOps, platform engineering, and operations notes for senior practitioners.
+- [CloudCity](https://github.com/silviotorre/cloudcity) — interoperability concept and demonstrator for smart-city and public-service scenarios.
+- [biblio2word](https://github.com/silviotorre/biblio2word) — browser-based bibliography conversion to Microsoft Word bibliography sources.
 
 ## Standards & professional communities
 
